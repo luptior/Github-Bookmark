@@ -1,3 +1,9 @@
+"""
+As you may have noticed, the schemas are inheriting from Schema a package from the [marshmallow library]
+(https://marshmallow.readthedocs.io/en/3.0/), marshmallow is an ORM/ODM/framework-agnostic library for
+serializing/deserializing complex data types, such as objects, to and from native Python data types.
+"""
+
 from marshmallow import Schema, fields
 
 class GithubRepoSchema(Schema):
