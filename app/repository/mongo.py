@@ -2,7 +2,6 @@
 export MONGO_URL=mongodb://mongo_user:mongo_secret@0.0.0.0:27017/
 """
 
-
 import os
 from pymongo import MongoClient
 
