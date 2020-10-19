@@ -1,2 +1,2 @@
 # Github-Bookmark
- use Flask + React
+A project implements CRUD functions using Flask + React
